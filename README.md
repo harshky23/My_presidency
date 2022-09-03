@@ -19,8 +19,7 @@ some screen shots of the project:
 <table cellspacing ="20">
 <hr>
   
-<img src="https://user-images.githubusercontent.com/77272906/188285222-5d909e3b-1051-4eb4-bee2-25daeca8371d.jpeg" height ="500">
-<img src="https://user-images.githubusercontent.com/77272906/188285322-2dbb8b1b-f0db-430e-a31b-d6f46b7984c7.jpeg" height ="500">
+<img src="https://user-images.githubusercontent.com/77272906/188285222-5d909e3b-1051-4eb4-bee2-25daeca8371d.jpeg" height ="500"><img src="https://user-images.githubusercontent.com/77272906/188285322-2dbb8b1b-f0db-430e-a31b-d6f46b7984c7.jpeg" height ="500">
 
   </hr>
 </table>
